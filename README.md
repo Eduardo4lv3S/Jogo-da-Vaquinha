@@ -1,7 +1,7 @@
 # Jogo-da-Vaquinha
 Esse e meu segundo projeto quando comecei a estudar programação
 
-link do projto funcionando  https://editor.p5js.org/eduardoalves090/full/rkOd46bUs
+link do projeto funcionando  https://editor.p5js.org/eduardoalves090/full/rkOd46bUs
 
 Use as setas do teclado para movimentar o personagem
 ---
